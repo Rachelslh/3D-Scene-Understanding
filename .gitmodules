@@ -1,0 +1,3 @@
+[submodule "modules/Depth-Cut_Based_Ground_Detection"]
+	path = modules/Depth-Cut_Based_Ground_Detection
+	url = https://github.com/Rachelslh/Depth-Cut_Based_Ground_Detection
