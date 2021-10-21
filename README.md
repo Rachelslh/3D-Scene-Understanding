@@ -22,7 +22,9 @@ Made our own dataset of octants, manually labelled. Can be downloaded [here](htt
 ## Accuracy
 Using one hidden layer with a Sigmoid activation function and an output layer with a Softmax function, this neural network is accurate at 89%.
 
-![alt text](https://github.com/Rachelslh/3D_Scene_Understanding/blob/master/nn_results.png?raw=true)
+<p align="center">
+<img src="https://github.com/Rachelslh/3D_Scene_Understanding/blob/master/nn_results.png" />
+</p>
 
 ## Perspectives
 This work is only applied on polyedra objects composed of octants and can be further extended to real life objects.
