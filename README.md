@@ -14,6 +14,11 @@ Modules :
 6. Semantic labeling of Nodes (A.Guzman)
 7. Classification using an MLP structure (Machine Learning)
 
+## Classes
+1, 2, 5 ,and 7 octants
+
+## Dataset
+Made our own dataset of octants, manually labelled. Can be downloaded [here](https://drive.google.com/drive/folders/1T7yTTtDLASLWzn-XHshiRxWtCfAXRAYx?usp=sharing).
 ## Accuracy
 Using one hidden layer with a Sigmoid activation function and an output layer with a Softmax function, this neural network is accurate at 89%.
 
