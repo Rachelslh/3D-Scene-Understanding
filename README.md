@@ -1,9 +1,9 @@
 # 3D Scene Understanding
 Understanding the image is fundamental to the atificial vision. The first approaches were centered
-on questions relating to the observed scene "What is present" and "Where". Following this methodology,
+on questions relating to the observed scene _"What is present"_ and _"Where"_. Following this methodology,
 the scenes are recognized by detecting the objects in the scene as well as their positions.
 This work concerns depth images and takes as input 3D format data (point cloud) using Kinect.
-The proposed approach uses fundamental and basic algorithms like Random Sample Concensus (RANSAC) to get the requested output and applies Guzman's work in the field of Polyhedra Objects Classification in 3D.
+The proposed approach uses fundamental and basic algorithms like _Random Sample Concensus (RANSAC)_ to get the requested output and applies _Guzman_'s work in the field of Polyhedra Objects Classification in 3D.
 
 Modules : 
 1. Acquisition and Preprocessing
