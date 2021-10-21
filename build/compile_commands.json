@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/home/rachella/github/3D_Scene_Understanding/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I../modules -I/home/rachella/freenect2/include -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/pcl-1.10 -isystem /usr/include/eigen3 -isystem /usr/include/ni -isystem /usr/include/openni2 -isystem /usr/include/opencv4    -Os -DNDEBUG   -o CMakeFiles/Main.dir/modules/main.cpp.o -c /home/rachella/github/3D_Scene_Understanding/modules/main.cpp",
+  "file": "/home/rachella/github/3D_Scene_Understanding/modules/main.cpp"
+},
+
+{
+  "directory": "/home/rachella/github/3D_Scene_Understanding/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I../modules -I/home/rachella/freenect2/include -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/pcl-1.10 -isystem /usr/include/eigen3 -isystem /usr/include/ni -isystem /usr/include/openni2 -isystem /usr/include/opencv4    -Os -DNDEBUG   -o CMakeFiles/Main.dir/modules/preprocessing/libfreenect2_grabber.cpp.o -c /home/rachella/github/3D_Scene_Understanding/modules/preprocessing/libfreenect2_grabber.cpp",
+  "file": "/home/rachella/github/3D_Scene_Understanding/modules/preprocessing/libfreenect2_grabber.cpp"
+},
+
+{
+  "directory": "/home/rachella/github/3D_Scene_Understanding/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I../modules -I/home/rachella/freenect2/include -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/pcl-1.10 -isystem /usr/include/eigen3 -isystem /usr/include/ni -isystem /usr/include/openni2 -isystem /usr/include/opencv4    -Os -DNDEBUG   -o CMakeFiles/Main.dir/modules/Depth-Cut_Based_Ground_Detection/include/ground_search.cpp.o -c /home/rachella/github/3D_Scene_Understanding/modules/Depth-Cut_Based_Ground_Detection/include/ground_search.cpp",
+  "file": "/home/rachella/github/3D_Scene_Understanding/modules/Depth-Cut_Based_Ground_Detection/include/ground_search.cpp"
+}
+]
