@@ -5,10 +5,8 @@ the scenes are recognized by detecting the objects in the scene as well as their
 This work concerns depth images and takes as input 3D format data (point cloud) using Kinect.
 The proposed approach uses fundamental and basic algorithms like _Random Sample Concensus (RANSAC)_ to get the requested output and applies _Guzman_'s work in the field of Polyhedra Objects Classification in 3D.
 
-[Demonstration Video link.](https://drive.google.com/file/d/19IkSEe2mEf8OIahRn20dkdv01vEsSxpv/view?usp=share_link)
-<p align="center">
-<img src="[https://github.com/Rachelslh/3D_Scene_Understanding/blob/master/nn_results.png](https://drive.google.com/file/d/19IkSEe2mEf8OIahRn20dkdv01vEsSxpv/view?usp=share_link)" />
-</p>
+[![Demonstration Video link](https://drive.google.com/file/d/1xfoTX8uvBgjqFlUdXJiUqmj08lG1J5g1/view?usp=share_link)](https://drive.google.com/file/d/19IkSEe2mEf8OIahRn20dkdv01vEsSxpv/view?usp=share_lin)
+
 
 Modules : 
 1. Acquisition and Preprocessing
